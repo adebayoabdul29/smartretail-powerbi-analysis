@@ -1,28 +1,14 @@
-# 📊 SmartRetail Power BI — Capstone Data Analysis Project
-
-> A full end-to-end business intelligence project built in Power BI, analysing 9,994 retail sales records across 14 business questions — covering revenue performance, customer behaviour, product profitability, regional risk, and strategic recommendations.
-
+# SmartRetail Power BI — Capstone Data Analysis Project
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This capstone project delivers a **3-page interactive Power BI dashboard** for **SmartRetail Company**, transforming raw superstore data into executive-ready insights. The analysis spans operations overview, market dynamics, and strategic risk intelligence — enabling data-driven decisions across sales, discounting, product management, and regional strategy.
 
 ---
 
-## 📂 Repository Structure
 
-```
-smartretail-powerbi-analysis/
-│
-├── Capstone_Project.xlsx            # Raw dataset (9,994 records)
-├── Capstone_project.pptx            # Full presentation of findings & recommendations
-└── README.md                        # Project documentation
-```
-
----
-
-## 📊 Dataset Overview
+## Dataset Overview
 
 **Source:** Superstore Sales Dataset | **Records:** 9,994 orders
 
@@ -42,7 +28,7 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 🖥️ Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Operations & Business Vitality Overview
 - KPI cards: Total Profit ($286K), Total Quantity (38K), Total Sales ($2.30M)
@@ -66,7 +52,7 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 🔢 DAX Measures Used
+## DAX Measures Used
 
 | Measure | Purpose |
 |---|---|
@@ -86,7 +72,7 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 | # | Question | Finding |
 |---|---|---|
@@ -107,7 +93,7 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 🎯 Strategic Recommendations
+## Strategic Recommendations
 
 1. **Enforce a 20% Discount Cap** — No discount above 20% without manager approval; profits crash beyond this threshold
 2. **Delist Unprofitable Products** — Remove Cubify 3D Printers and Lexmark units from the active catalogue immediately
@@ -117,7 +103,7 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Usage |
 |---|---|
@@ -129,33 +115,4 @@ smartretail-powerbi-analysis/
 
 ---
 
-## 👥 Project Team
 
-| Name | Student ID |
-|---|---|
-| Gabriel Afolami | DA/2025/TC4/624 |
-| Opeloyeru Eniola Comfort | DA/2025/TC4/625 |
-| Abolade Eniola Sururah | DA/2025/TC4/628 |
-| Toritseju Ofeoritse Marx | DA/2025/TC4/627 |
-| **Adebayo Abdulfatai Ayinde** | **DA/2025/640** |
-| Ifeoluwa Esther | DA/2025/TC4/638 |
-| Folahanmi Omogoriola Ebenezer | DA/2025/TC4/642 |
-| Ajetunmobi Moyosoluwa Mistura | DA/2025/TC4/632 |
-| John Akinwande | DA/2025/TC4/636 |
-
----
-
-## 👤 Author (Portfolio)
-
-**Abdulfattah (Adebayo Abdulfatai Ayinde)**
-Data Analyst | Accounting Graduate | Interior Decorator
-
-> *"Turning raw numbers into meaningful stories."*
-
-- 🐙 GitHub: [@fattah-canvas](https://github.com/fattah-canvas)
-
----
-
-## 📝 License
-
-This project is for academic portfolio and educational purposes.
